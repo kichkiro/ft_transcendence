@@ -171,7 +171,3 @@ Below are the security measures that have been taken to protect the infrastructu
 
 ## ⚖️ - License
 See [LICENSE](https://github.com/GiovanniAfro/ft_transcendence-/blob/master/LICENSE)
-
-<br>
-
-Work in Progress ...
