@@ -16,7 +16,10 @@
 
 #### <i>[subject](_subject/en.subject.pdf) v.15</i>
 
-## 📌 -  Dependencies (for Ubuntu 24.04LTS)
+
+## 🛠️ - Usage
+
+### Dependencies (for Ubuntu 24.04LTS)
 
 - docker
 ``` sh
@@ -38,11 +41,15 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 sudo apt install make
 ```
 
-## 🛠️ - Usage
+### Get Project 
+
 ```
 git clone https://github.com/kichkiro/ft_transcendence.git
 cd ft_transcendence/project
 ```
+
+### Make Commands
+
 - make up:
   - create images
   - create volumes
@@ -170,4 +177,4 @@ Below are the security measures that have been taken to protect the infrastructu
   - [Hashicorp Vault - PKI Secret Engine](https://developer.hashicorp.com/vault/api-docs/secret/pki#sign-certificate)
 
 ## ⚖️ - License
-See [LICENSE](https://github.com/GiovanniAfro/ft_transcendence-/blob/master/LICENSE)
+See [LICENSE](./LICENSE)
