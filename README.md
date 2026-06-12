@@ -1,6 +1,6 @@
 # ft-transcendence
 
-![ft-transcendence](https://github.com/kichkiro/kichkiro/blob/main/assets/banner_ft-transcendence.jpg?raw=true)
+![ft-transcendence](https://github.com/kichkiro/kichkiro/blob/main/assets/banners/banner_ft-transcendence.jpg?raw=true)
 
 <i>
   <p>
